@@ -17,7 +17,7 @@ dev journal:
 soon...
 
 ---------------------------------------------
-* you can find me here *
+you can find me here
 
 LinkedIn: https://www.linkedin.com/in/samit-masih/
 
