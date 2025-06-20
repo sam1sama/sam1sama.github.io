@@ -7,6 +7,7 @@ thinking... (projects) (only one project as of now)
 ---------------------------------------------
 
 silk web application - last updated 21st June
+
 link: https://silk-lovat.vercel.app/
 
 description:
